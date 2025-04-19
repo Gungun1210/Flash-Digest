@@ -1,0 +1,18 @@
+# Python environments
+myenv/
+venv/
+.env
+_pycache_/
+*.pyc
+*.pyo
+
+# Node modules and build
+node_modules/
+dist/
+
+# VSCode
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db

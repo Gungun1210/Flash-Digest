@@ -1,0 +1,22 @@
+# Core dependencies
+openai-whisper
+torch
+ffmpeg-python
+
+# Summarization and NLP
+transformers
+sentencepiece
+scikit-learn
+nltk
+textblob
+
+# Database ORM
+sqlalchemy
+psycopg2-binary
+
+# Environment
+python-dotenv
+
+# Optional tools
+tqdm
+numpy

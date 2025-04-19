@@ -1,0 +1,18 @@
+.result-container {
+    margin-top: 20px;
+    padding: 15px;
+    border: 2px solid #ddd;
+    background: #f9f9f9;
+    border-radius: 10px;
+  }
+  
+  .result-text {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .empty-result {
+    color: #777;
+    font-style: italic;
+  }
+  

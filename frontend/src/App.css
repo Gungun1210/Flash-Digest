@@ -1,0 +1,22 @@
+.container {
+  min-width: 60vh;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+input, select, button {
+  display: block;
+  width: 30%;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.output, .history {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background: #f9f9f9;
+}
+
+
