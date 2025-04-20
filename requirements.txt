@@ -5,6 +5,7 @@ requests
 newspaper3k
 pytube
 lxml_html_clean
+pydub
 
 # Core dependencies
 openai-whisper
