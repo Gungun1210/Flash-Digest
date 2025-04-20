@@ -3,7 +3,7 @@ uvicorn
 fastapi
 requests
 newspaper3k
-pytube 
+pytube
 
 # Core dependencies
 openai-whisper
