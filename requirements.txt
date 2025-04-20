@@ -4,6 +4,7 @@ fastapi
 requests
 newspaper3k
 pytube
+lxml_html_clean
 
 # Core dependencies
 openai-whisper
