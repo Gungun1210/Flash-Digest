@@ -1,6 +1,9 @@
 
 uvicorn
 fastapi
+requests
+newspaper3k
+pytube 
 
 # Core dependencies
 openai-whisper
