@@ -9,11 +9,11 @@ pydub
 
 # Core dependencies
 openai-whisper
-torch
+
 ffmpeg-python
 
 # Summarization and NLP
-transformers
+
 sentencepiece
 scikit-learn
 nltk
