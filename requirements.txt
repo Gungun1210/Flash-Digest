@@ -20,3 +20,5 @@ python-dotenv
 # Optional tools
 tqdm
 numpy
+# Add Uvicorn 
+uvicorn
