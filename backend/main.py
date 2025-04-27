@@ -13,7 +13,7 @@ app = FastAPI()
 # CORS middleware to allow cross-origin requests from your frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # You can restrict this to your frontend URL in production, e.g., ["http://localhost:3000"]
+    allow_origins=["https://flash-digest.vercel.app/","http://localhost:5173"],  # You can restrict this to your frontend URL in production, e.g., ["http://localhost:3000"]
     allow_credentials=True,
     allow_methods=["*"],  # Allows all methods (GET, POST, etc.)
     allow_headers=["*"],  # Allows all headers
