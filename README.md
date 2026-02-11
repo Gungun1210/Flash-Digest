@@ -3,25 +3,28 @@ It a fast and simple AI-powered application that summarizes news articles and tr
 It is designed to help users quickly understand long content without information overload.  
 <br> 
 **🚀 Features**  
-**-->** Get short, clear summaries from long news articles or web links.  
-**-->** Convert provided text or supported sources into readable transcripts.  
-**-->** Backend is structured to support multiple input sources.  
-**-->** Uses Groq-powered LLMs for low-latency summarization.  
-**-->** React-based frontend for easy interaction.
-<br>
-<br>
+<small>
+- Get short, clear summaries from long news articles or web links  
+- Convert provided text or supported sources into readable transcripts  
+- Backend supports multiple input sources  
+- Uses Groq-powered LLMs for low-latency summarization  
+- React-based frontend for easy interaction
+</small>
+
+
 **🧠 Tech Stack**  
-**-->Frontend**  
+**- Frontend**  
 React.js  
 JavaScript  
 CSS
 
-**-->Backend**  
+**- Backend**  
 FastAPI (Python)  
 Groq LLM API  
 REST APIs  
 
-**-->AI/NLP**  
+**- AI/NLP**  
 Large Language Models for summarization  
 Prompt-based processing
+
 
