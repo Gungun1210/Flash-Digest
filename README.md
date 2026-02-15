@@ -13,18 +13,19 @@ It is designed to help users quickly understand long content without information
 
 
 **🧠 Tech Stack**  
-**- Frontend**  
+**-Frontend**  
 React.js  
 JavaScript  
 CSS
 
-**- Backend**  
+**-Backend**  
 FastAPI (Python)  
 Groq LLM API  
 REST APIs  
 
-**- AI/NLP**  
+**-AI/NLP**  
 Large Language Models for summarization  
 Prompt-based Processing 
+
 
 
